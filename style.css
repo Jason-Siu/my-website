@@ -1,0 +1,107 @@
+html
+{
+    background-color: #eaebff;
+}
+
+div.logo
+{
+    position: absolute;
+    font-size: 300%;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 20%;
+}
+
+div.buttons
+{
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: relative;
+    text-align: right;
+    margin-right: 25%;
+    margin-top: 20px;
+}
+
+div.title
+{
+    padding-top: 30px;
+    font-size: 200%;
+    text-align: center;
+}
+
+div.slogan
+{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 400%;
+}
+
+div.text1
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 30px;
+    color: gray;
+    line-height: 1.6;
+    font-size: 30px;
+}
+
+
+div.text2
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 100px;
+    color: gray;
+    line-height: 1.6;
+    font-size: 30px;
+}
+
+div.text3
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 30px;
+    color: gray;
+    line-height: 1.6;
+    font-size: 30px;
+}
+
+div.text4
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 30px;
+    color: gray;
+    line-height: 1.6;
+    font-size: 30px;
+}
+
+
+div.text5
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 100px;
+    color: gray;
+    line-height: 1.6;
+    font-size: 30px;
+}
+
+u
+{
+    font-weight: bold;
+    color: #c4a044;
+}
+

@@ -1,0 +1,59 @@
+html
+{
+    background-color: #eaebff;
+}
+
+div.logo
+{
+    position: absolute;
+    font-size: 300%;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 20%;
+}
+
+div.buttons
+{
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: relative;
+    text-align: right;
+    margin-right: 25%;
+    margin-top: 20px;
+}
+
+div.prompt
+{
+    text-align: center;
+    font-size: 300%;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    padding-top: 40px;
+}
+
+div.down
+{
+    color:gray;
+    font-size: 200%;
+    margin-left:20%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    padding-top: 30px;
+    margin-right: 20%;
+}
+
+div.disclaim
+{
+    padding-top: 30px;
+    margin-left: 18%;
+    margin-right: 18%;
+    font-size: 130%;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+text
+{
+    font-size: 75%;
+}
