@@ -105,3 +105,92 @@ u
     color: #c4a044;
 }
 
+@media screen and (max-width:600px)
+{
+    div.logo
+    {
+        position: absolute;
+        font-size: 150%;
+        color: black;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin-left: 5%;
+    }
+
+    div.buttons
+    {
+        font-size: 130%;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        position: relative;
+        text-align: right;
+        margin-right: 5%;
+        margin-top: 20px;
+    }
+    div.buttons
+    {
+        font-size: 130%;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        position: relative;
+        text-align: right;
+        margin-right: 5%;
+        margin-top: 20px;
+    }
+
+    div.title
+    {
+        padding-top: 30px;
+        font-size: 130%;
+        text-align: center;
+    }
+
+    div.slogan
+    {
+        padding-top: 25px;
+        font-size: 130%;
+        text-align: center;
+    }
+
+    img
+    {
+        max-width: 140%;
+        float: left;
+        margin-right: 100%;
+        margin-left: -15%;
+    }
+
+    
+    p
+    {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-style: italic;
+        font-size: 50%;
+        margin: auto;
+    }
+
+    h1
+    {
+        font-size: 50%;
+    }
+    
+    div.text5 h2
+    {
+        font-size: 75%;
+    }
+
+    div.text5 h5
+    {
+        font-size: 45%;
+    }
+
+    div.text1 strong
+    {
+        font-size: 90%;
+    }
+    div.text2 strong
+    {
+        font-size: 90%;
+    }
+
+}
+
