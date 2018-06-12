@@ -44,3 +44,36 @@ div.proj
     padding-top: 30px;
     margin-right: 20%;
 }
+
+@media screen and (max-width:600px)
+{
+    div.logo
+    {
+        position: absolute;
+        font-size: 150%;
+        color: black;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin-left: 5%;
+    }
+
+    div.buttons
+    {
+        font-size: 130%;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        position: relative;
+        text-align: right;
+        margin-right: 5%;
+        margin-top: 20px;
+    }
+
+    div.title
+    {
+        font-size: 150%;
+    }
+
+    div.proj
+    {
+        font-size: 120%;
+    }
+}
